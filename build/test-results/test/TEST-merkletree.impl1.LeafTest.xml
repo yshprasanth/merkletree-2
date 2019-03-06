@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="merkletree.impl1.LeafTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-08-28T06:19:22" hostname="SKMOSXPD50G8WNP" time="0.016">
+  <properties/>
+  <testcase name="testToString" classname="merkletree.impl1.LeafTest" time="0.016"/>
+  <testcase name="testGetDataBlock" classname="merkletree.impl1.LeafTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="merkletree.impl4.chain.SimpleChainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-08-28T06:19:22" hostname="SKMOSXPD50G8WNP" time="0.743">
+  <properties/>
+  <testcase name="blockMinerTest" classname="merkletree.impl4.chain.SimpleChainTest" time="0.671"/>
+  <testcase name="merkleTreeTest" classname="merkletree.impl4.chain.SimpleChainTest" time="0.011"/>
+  <testcase name="testBlockchain" classname="merkletree.impl4.chain.SimpleChainTest" time="0.013"/>
+  <testcase name="testValidateBlockchain" classname="merkletree.impl4.chain.SimpleChainTest" time="0.047"/>
+  <system-out><![CDATA[Number of Blocks Mined = 3
+Merkle Hash tree :[559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd, df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c, 6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d, 3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43, b30ab174f7459cdd40a3acdf15d0c9444fec2adcfb9d579aa154c084885edd0a, 26b5aabe804fe5d533c663dea833e8078188376ce5ca2b5c3371d09ef6b0657b, 50a504831bd50fee3581d287168a85a8dcdd6aa777ffd0fe35e37290268a0153]
+Chain 1 Hash: bb951f07adaa0b9d4d2b054a0dfd4381d7950c8b19205d057c900493f0e7d104
+Chain 2 Hash: 603bef671a3034cd6aa2b8e5b6d4ad08c8844d241b6280fb253fec752955976c
+Chains Are In Sync: false
+Chain 1 Hash: bb951f07adaa0b9d4d2b054a0dfd4381d7950c8b19205d057c900493f0e7d104
+Chain 2 Hash: bb951f07adaa0b9d4d2b054a0dfd4381d7950c8b19205d057c900493f0e7d104
+Chains Are In Sync: true
+Current Chain Head Transactions: 
+	559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd : A
+	df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c : B
+	6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d : C
+	3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43 : D
+Chain is Valid: true
+Chain is Valid: false
+Chain is Valid: false
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

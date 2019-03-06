@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="merkletree.impl4.helpers.HashTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-28T06:19:23" hostname="SKMOSXPD50G8WNP" time="0.002">
+  <properties/>
+  <testcase name="test" classname="merkletree.impl4.helpers.HashTest" time="0.002"/>
+  <system-out><![CDATA[48ec9ab2710338d58ac4328ea9d47cf483d91082271541e5da43b0b583061183
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
